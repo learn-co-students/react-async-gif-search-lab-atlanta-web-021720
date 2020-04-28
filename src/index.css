@@ -1,0 +1,14 @@
+#searchForm{
+    float:right;
+    margin-right: 50px;
+}
+
+#searchBtn{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+
+#searchInput{
+    padding-right: 150px;
+}
